@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   snake:
-    image: 'amrit96/snake'
+    image: 'systemctl221/snake-devsecops-training'
     environment:
       - "PORT:3000"
     ports:
